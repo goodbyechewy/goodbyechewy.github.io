@@ -6,7 +6,7 @@
   <link href="https://goodbyechewy.github.io/atom.xml" rel="self"/>
   
   <link href="https://goodbyechewy.github.io/"/>
-  <updated>2025-11-10T17:13:20.211Z</updated>
+  <updated>2025-11-10T17:32:26.905Z</updated>
   <id>https://goodbyechewy.github.io/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="https://goodbyechewy.github.io/2025/11/11/test/"/>
     <id>https://goodbyechewy.github.io/2025/11/11/test/</id>
     <published>2025-11-10T17:11:53.000Z</published>
-    <updated>2025-11-10T17:13:20.211Z</updated>
+    <updated>2025-11-10T17:32:26.905Z</updated>
     
+    <content type="html"><![CDATA[<p>搭一个自己的博客这个念头落地的速度远比我想的要快，我以为要等到年底才回开始筹划（因为要写2025年终总结），结果才三天已经初有成效了。如果一会能在网站上看到这篇文章就代表做完基本功了！</p><p>“搭”有些言过其实，毕竟我只是用了几天时间搞懂了Hexo的基本原理。但我还是非常自豪，虽然还不知道歪打误撞选择用Hexo而非Hugo是否会在未来给我挖一个大坑。昨天我给博客找了一个（署名就可以免费使用的）笨鸭子作为站标，并且在页尾版权署名加上了一个新模块用来链接署名。网上可查不到教程喔，我自己瞎鼓捣出来的。有些羞于承认如此简单的事情竟然给我带来如此大的成就感，这就是赛博handyperson的快乐吗？Can I be one?</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;搭一个自己的博客这个念头落地的速度远比我想的要快，我以为要等到年底才回开始筹划（因为要写2025年终总结），结果才三天已经初有成效了。如果一会能在网站上看到这篇文章就代表做完基本功了！&lt;/p&gt;
+&lt;p&gt;“搭”有些言过其实，毕竟我只是用了几天时间搞懂了Hexo的基本原理。但我还</summary>
+      
     
     
     
